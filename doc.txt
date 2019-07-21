@@ -1,0 +1,5 @@
+- Create class Chrome and Firefox
+- Each will have its own data processing, query generation
+- CookieCrud class, this will handle only operations on SQLite
+
+- We can also separate these three as separate npm packages
