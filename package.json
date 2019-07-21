@@ -23,5 +23,8 @@
     "eslint-config-strongloop": "^2.1.0"
   },
   "author": "{{NAME}}",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^4.0.9"
+  }
 }
