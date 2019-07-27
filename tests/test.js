@@ -15,6 +15,10 @@
 const CookieCrud = require('../index');
 
 const Cookie = new CookieCrud();
-Cookie.connect('./Cookies');
+// Cookie.connect('./Cookies');
 
-Cookie.readCookie('mail.google.com');
+// Cookie.readCookie('mail.google.com');
+
+chrome = Cookie.getChrome();
+console.log(chrome);
+chrome.getCookie()

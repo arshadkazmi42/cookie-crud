@@ -1,9 +1,9 @@
-const BROWSERS = [ 'CHROME', 'FIREFOX' ];
+const { Chrome, Firefox } = require('./lib');
 
 
 function CookieCrud() {
 
-  this.chrome = null;
+  this.chrome = new Chrome();
   this.firefox = null;
 }
 
