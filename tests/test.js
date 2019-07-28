@@ -18,9 +18,6 @@ const CookieCrud = require('../index');
 const LINUX = '/home/arshad/.config/google-chrome/Default/Cookies';
 const MAC = '/Users/arshad/Library/Application Support/Google/Chrome/Default/Cookies';
 const Cookie = new CookieCrud(MAC);
-// Cookie.connect('./Cookies');
-
-// Cookie.readCookie('mail.google.com');
 
 try {
     Cookie.getChrome().getCookie('primevideo');
