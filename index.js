@@ -1,9 +1,9 @@
 const { Chrome, Firefox } = require('./lib');
 
 
-function CookieCrud() {
+function CookieCrud(path) {
 
-  this.chrome = new Chrome();
+  this.chrome = new Chrome(path);
   this.firefox = null;
 }
 
