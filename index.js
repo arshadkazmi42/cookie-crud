@@ -7,11 +7,11 @@ function CookieCrud() {
   this.firefox = null;
 }
 
-CookieCrud.prototype.getChrome = () => {
+CookieCrud.prototype.getChrome = function() {
   return this.chrome;
 }
 
-CookieCrud.prototype.getFirefox = () => {
+CookieCrud.prototype.getFirefox = function() {
   return this.firefox;
 }
 
