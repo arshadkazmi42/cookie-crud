@@ -1,30 +1,39 @@
 {
-  "name": "{{PACKAGE_NAME}}",
+  "name": "cookie-crud",
   "version": "1.0.0",
-  "description": "{{PACKAGE_DESCRIPTION}}",
+  "description": "CRUD operation on Chrome and Firefox sqlite cookie store",
   "main": "index.js",
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
     "pretest": "eslint --ignore-path .gitignore .",
-    "test": "node_modules/mocha/bin/mocha tests/*"
+    "test": "node_modules/mocha/bin/mocha tests/*.js"
   },
   "files": [
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/{{USERNAME}}/{{PACKAGE_NAME}}.git"
+    "url": "git+https://github.com/arshadkazmi42/cookie-crud.git"
   },
-  "keywords": [],
+  "keywords": [
+    "cookie",
+    "crud",
+    "cookie-crud",
+    "sqlite",
+    "firefox",
+    "chrome",
+    "crossplatform"
+  ],
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
     "eslint": "^5.11.1",
     "eslint-config-strongloop": "^2.1.0"
   },
-  "author": "{{NAME}}",
+  "author": "Arshad Kazmi",
   "license": "MIT",
   "dependencies": {
-    "sqlite3": "^4.0.9"
+    "chrome-cookie": "^1.0.5",
+    "firefox-cookie": "^1.0.1"
   }
 }
