@@ -1,6 +1,6 @@
 # cookie-crud
 
-[![Build Status](https://api.travis-ci.com/arshadkazmi42/cookie-crud.svg?branch=master)](https://api.travis-ci.com/arshadkazmi42/cookie-crud)
+[![Build](https://github.com/arshadkazmi42/cookie-crud/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/cookie-crud/actions/workflows/nodejs.yml)
 
 CRUD operations on browser cookies store in Sqlite. ( CrossPlatform )
 
