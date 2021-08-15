@@ -1,6 +1,6 @@
 {
   "name": "cookie-crud",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CRUD operation on Chrome and Firefox sqlite cookie store",
   "main": "index.js",
   "scripts": {
