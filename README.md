@@ -1,6 +1,12 @@
 # cookie-crud
 
-[![Build](https://github.com/arshadkazmi42/cookie-crud/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/cookie-crud/actions/workflows/nodejs.yml)
+[![Build](https://github.com/ryuusama09/cookie-crud/actions/workflows/nodejs.yml/badge.svg)](https://github.com/ryuusama09/cookie-crud/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/cookie-crud.svg)](https://www.npmjs.com/package/cookie-crud)
+[![NPM Downloads](https://img.shields.io/npm/dt/cookie-crud.svg)](https://www.npmjs.com/package/cookie-crud)
+[![Github Repo Size](https://img.shields.io/github/repo-size/ryuusama09/cookie-crud.svg)](https://github.com/ryuusama09/cookie-crud)
+[![LICENSE](https://img.shields.io/npm/l/cookie-crud.svg)](https://github.com/ryuusama09/cookie-crud/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/ryuusama09/cookie-crud.svg)](https://github.com/ryuusama09/cookie-crud/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/ryuusama09/cookie-crud.svg)](https://github.com/ryuusama09/cookie-crud/commits/master)
 
 CRUD operations on browser cookies store in Sqlite. ( CrossPlatform )
 
