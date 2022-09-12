@@ -8,9 +8,6 @@
 [![Contributors](https://img.shields.io/github/contributors/ryuusama09/cookie-crud.svg)](https://github.com/ryuusama09/cookie-crud/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/ryuusama09/cookie-crud.svg)](https://github.com/ryuusama09/cookie-crud/commits/master)
 
-
-[![Build](https://github.com/arshadkazmi42/cookie-crud/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/cookie-crud/actions/workflows/nodejs.yml)
-
 CRUD operations on browser cookies store in Sqlite. ( CrossPlatform )
 
 ## Install
